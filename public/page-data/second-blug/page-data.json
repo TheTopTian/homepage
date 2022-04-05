@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-template-js",
+    "path": "/second-blug",
+    "result": {"data":{"markdownRemark":{"frontmatter":{"title":"Second Blog","date":"2022-04-05","author":"Tianci W","slug":"second-blug"},"html":"<h1>This is the second Blog</h1>\n<p>HaHaHa</p>"}},"pageContext":{"slug":"second-blug"}},
+    "staticQueryHashes": []}

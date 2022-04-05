@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktianci_w=self.webpackChunktianci_w||[]).push([[682],{5465:function(e,n,t){t.r(n),t.d(n,{default:function(){return i}});var u=t(7294);function i(){return u.createElement("div",null,u.createElement("h1",null,"This is about page"))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-d343499058e93e94ea18.js.map

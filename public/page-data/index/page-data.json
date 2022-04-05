@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"allMarkdownRemark":{"nodes":[{"frontmatter":{"author":"Tianci W","date":"2022-04-02","title":"First Blog","slug":"first-blog"}},{"frontmatter":{"author":"Tianci W","date":"2022-04-05","title":"Second Blog","slug":"second-blug"}}]}},"pageContext":{}},
+    "staticQueryHashes": []}
